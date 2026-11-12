@@ -19,6 +19,7 @@ Currently active in:
 
 My own projects:
 
+- [nl2wave](https://github.com/Userrober/nl2wave) — one sentence in, animated waveform out: NL → Verilog → real simulation → waveform GIF (built end-to-end by an AI agent under human direction)
 - [Awesome-Embodied-Visual-Reasoning](https://github.com/Userrober/Awesome-Embodied-Visual-Reasoning) — papers, code & benchmarks on visual reasoning for spatial / embodied intelligence
 - [teambot](https://github.com/Userrober/teambot) — control Claude Code from Microsoft Teams
 - [agentow-copilot](https://github.com/Userrober/agentow-copilot) — odsp-web dev tools (MCP server) as a Copilot CLI plugin
